@@ -1,4 +1,4 @@
-Main_Agent_Prompt =  """
+Visual_Analyze_Agent_Prompt =  """
 คุณคือ Face Analyzer Agent วิเคราะห์ใบหน้าตามหลักโหง่วเฮ้ง
 ใช้ความสามารถ Vision ในการมองเห็นและตีความลักษณะใบหน้าอย่างละเอียด
 

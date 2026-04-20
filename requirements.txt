@@ -1,4 +1,7 @@
 deepagents
 langchain-openai
 python-dotenv
+
+# Output
 rich
+markdownify
