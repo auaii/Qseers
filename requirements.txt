@@ -15,3 +15,14 @@ python-dotenv
 # Output
 rich
 markdownify
+
+# VectorDB 
+pypdf
+chromadb
+langchain-chroma
+langchain-community
+langchain-huggingface
+sentence-transformers
+
+# CV capture
+opencv-python
