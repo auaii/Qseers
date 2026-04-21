@@ -1,3 +1,13 @@
+chromadb
+langchain
+langchain-chroma
+langchain-community
+langchain-huggingface
+ollama
+pypdf
+sentence-transformers
+streamlit
+
 deepagents
 langchain-openai
 python-dotenv
